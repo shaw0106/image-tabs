@@ -14,7 +14,7 @@ html {
   font-family: sans-serif;
 }
 
-*,*::before, *::after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
